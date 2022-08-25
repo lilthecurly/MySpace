@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySpace</string>
+    <string name="mars_rover_photos">Mars Rover Photos</string>
+    <string name="picture_of_the_day">Picture of the Day</string>
+    <string name="follow_your_space">Follow your Space</string>
+    <string name="next_photo"><![CDATA[Next photo >>]]></string>
+    <string name="download">Download</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="tap_to_pick_the_date">Tap to Pick the Date</string>
+</resources>
